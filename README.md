@@ -14,9 +14,12 @@ In this project, I used `Selenium` package to automatically extract football mat
 
 1. Go to https://www.partypoker.com/ and register for an account, fund your account with minimum $50 CAD. 
 
+
 2. Open the `params.py` file and type in your `user_name`, `password` and `user_id`
 
+
 3. Go to https://chromedriver.chromium.org/downloads to download the chromedriver according to your current Chrome version. Open the `get_predicted_scores.py`, and paste your path of downloaded chrome driver into line 8, where it says `your path to chrome driver`.
+
 
 4. Run `get_predicted_score.py`, or in terminal, navigate to the root directory of this project and run the following:
  
@@ -24,11 +27,13 @@ In this project, I used `Selenium` package to automatically extract football mat
 Python3 get_predicted_score.py
 ```
 
+
 5. Run `place_bets.py`, or in terminal, navigate to the root directory of this project and run the following:
  
 ```
 Python3 place_bets.py
 ```
+
 
 ## Dependencies:
 
