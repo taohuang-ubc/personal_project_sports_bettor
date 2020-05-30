@@ -8,7 +8,7 @@ In this project, I used `Selenium` package to automatically extract football mat
 
 ## Video demo of placing bets:
 
-[!gif demo](https://github.com/taohuang-ubc/sport_bettor/blob/master/demo.gif)
+![gif demo](https://github.com/taohuang-ubc/sport_bettor/blob/master/demo.gif)
 
 ## Usage
 
